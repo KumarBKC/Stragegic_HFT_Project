@@ -1,0 +1,1 @@
+This is the HFT_Project dedicated to high frequency project in the stock market, focusing on the ultimate latency, being the first who sends the order packets to the core matching engine of the stock exchange, This system is designed and deveoped for ultimate latency of execution in the level of nano seconds.
